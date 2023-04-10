@@ -570,7 +570,7 @@ body{
 .services-content{
     height: auto;
     width: 100%;
-    overflow: hidden;
+    overflow: auto;
     text-align: center;
     padding:2.5%;
 }
