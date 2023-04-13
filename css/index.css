@@ -1495,7 +1495,7 @@ For devices with smaller width like mobile phone
     .service{
         height:330px;
         width:90%;
-        margin: 1.5%;
+        margin: 1%;
         background-color: #191919;
         display: inline-block;
         box-shadow:0px 0px 25px rgb(0,0,0,.1);
@@ -1509,10 +1509,10 @@ For devices with smaller width like mobile phone
         display: inline-block;
         z-index: 2;
         position: relative;
-        margin: 20px;
+        margin: 10px;
         border-radius: 30%;
         padding: 10px;
-        height:80px;
+        height:70px;
         transition: all .8s ease;
     }
     .skill{
