@@ -574,7 +574,7 @@ body{
     width:28%;
     margin: 1.5%;
     background-color: #191919;
-    ;
+    
     display: inline-block;
     box-shadow:0px 0px 25px rgb(0,0,0,.05);
     position: relative;
@@ -620,7 +620,7 @@ body{
 .service-description p{
     padding: 10px;
     font-weight: 200;
-    overflow: auto;
+    overflow: scroll;
     font-size: 16px;
     opacity: .8;
 }
