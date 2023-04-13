@@ -1503,7 +1503,7 @@ For devices with smaller width like mobile phone
         text-align: center;
         z-index: 2;
         border-radius: 10px;
-        overflow: hidden;
+        overflow: auto;
     }
     .service-img img{
         display: inline-block;
